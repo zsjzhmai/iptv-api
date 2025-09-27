@@ -1,15 +1,54 @@
 🕘️更新时间,#genre#
-2025-09-27 18:14:01,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2025-09-28 06:14:19,http://60.16.0.216:5757/hls/2/index.m3u8
 
 📺央视频道,#genre#
+CCTV-2,http://60.16.0.216:5757/hls/2/index.m3u8
+CCTV-3,http://60.16.0.216:5757/hls/3/index.m3u8
+CCTV-4,http://60.16.0.216:5757/hls/4/index.m3u8
+CCTV-5,http://60.16.0.216:5757/hls/5/index.m3u8
+CCTV-6,http://60.16.0.216:5757/hls/7/index.m3u8
+CCTV-7,http://60.16.0.216:5757/hls/8/index.m3u8
+CCTV-8,http://60.16.0.216:5757/hls/9/index.m3u8
+CCTV-9,http://60.16.0.216:5757/hls/10/index.m3u8
+CCTV-11,http://110.177.144.22:9003/hls/12/index.m3u8
+CCTV-11,http://60.16.0.216:5757/hls/12/index.m3u8
+CCTV-12,http://60.16.0.216:5757/hls/13/index.m3u8
+CCTV-13,http://60.16.0.216:5757/hls/14/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV-15,http://110.177.144.22:9003/hls/16/index.m3u8
+CCTV-16,http://60.16.0.216:5757/hls/17/index.m3u8
+CCTV-17,http://60.16.0.216:5757/hls/18/index.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广东卫视,http://60.16.0.216:5757/hls/20/index.m3u8
+湖北卫视,http://60.16.0.216:5757/hls/33/index.m3u8
+黑龙江卫视,http://60.16.0.216:5757/hls/35/index.m3u8
+安徽卫视,http://60.16.0.216:5757/hls/31/index.m3u8
+重庆卫视,http://60.16.0.216:5757/hls/36/index.m3u8
+东方卫视,http://60.16.0.216:5757/hls/23/index.m3u8
+甘肃卫视,http://110.177.144.22:9003/hls/25/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,http://60.16.0.216:5757/hls/45/index.m3u8
+广西卫视,http://110.177.144.22:9003/hls/27/index.m3u8
+贵州卫视,http://60.16.0.216:5757/hls/37/index.m3u8
+海南卫视,http://110.177.144.22:9003/hls/28/index.m3u8
+河北卫视,http://60.16.0.216:5757/hls/38/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+吉林卫视,http://60.16.0.216:5757/hls/44/index.m3u8
+江苏卫视,http://60.16.0.216:5757/hls/24/index.m3u8
+江西卫视,http://60.16.0.216:5757/hls/26/index.m3u8
+辽宁卫视,http://60.16.0.216:5757/hls/32/index.m3u8
+内蒙古卫视,http://60.16.0.216:5757/hls/41/index.m3u8
+青海卫视,http://110.177.144.22:9003/hls/40/index.m3u8
+青海卫视,http://60.16.0.216:5757/hls/43/index.m3u8
+山东卫视,http://60.16.0.216:5757/hls/27/index.m3u8
+山西卫视,http://60.16.0.216:5757/hls/39/index.m3u8
+陕西卫视,http://60.16.0.216:5757/hls/40/index.m3u8
+深圳卫视,http://60.16.0.216:5757/hls/19/index.m3u8
+新疆卫视,http://60.16.0.216:5757/hls/47/index.m3u8
 
 ☘️广东频道,#genre#
 
@@ -32,7 +71,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 沐川综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
 金川乡村,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd&quot;
-金川乡村,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd&amp;quot;
 
 ☘️陕西频道,#genre#
 
@@ -52,6 +90,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 ☘️新疆频道,#genre#
 哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
+
+☘️山东频道,#genre#
 
 ☘️安徽频道,#genre#
 
@@ -73,8 +113,10 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 
