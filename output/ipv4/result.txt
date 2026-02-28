@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-28 18:15:43,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-03-01 06:15:06,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
